@@ -12,6 +12,8 @@ contents:
 3. ladel\
 ![alt text](https://github.com/yichenemma/Models/blob/master/ladel.png)
 4. shelves\
+![alt text](https://github.com/yichenemma/Models/blob/master/shelf1.png)
+![alt text](https://github.com/yichenemma/Models/blob/master/shelf2.png)
 5. cupboards\
 ![alt text](https://github.com/yichenemma/Models/blob/master/cuoboard.png)
 ![alt text](https://github.com/yichenemma/Models/blob/master/cupboard2.png)
