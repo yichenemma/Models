@@ -6,11 +6,15 @@ contents:
 4. shelves
 5. cupboards
 ![alt text](https://github.com/yichenemma/Models/blob/master/cuoboard.png)
+![alt text](https://github.com/yichenemma/Models/blob/master/cupboard2.png)
 6. locks
 7. chest
 ![alt text](https://github.com/yichenemma/Models/blob/master/chest.png)
 8. stool
 9. fences
+![alt text](https://github.com/yichenemma/Models/blob/master/fence%202.png)
+![alt text](https://github.com/yichenemma/Models/blob/master/fence3.png)
+![alt text](https://github.com/yichenemma/Models/blob/master/fence..png)
 10. house
 11. window
 12. shrine
