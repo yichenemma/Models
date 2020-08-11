@@ -6,6 +6,9 @@ contents:
 ![alt text](https://github.com/yichenemma/Models/blob/master/key3.png)
 2. frames
 ![alt text](https://github.com/yichenemma/Models/blob/master/frame%20vertices.png)
+![alt text](https://github.com/yichenemma/Models/blob/master/mirror2.png)
+![alt text](https://github.com/yichenemma/Models/blob/master/mirror%20frame.png)
+![alt text](https://github.com/yichenemma/Models/blob/master/picture%20frame(square).png)
 3. ladel
 ![alt text](https://github.com/yichenemma/Models/blob/master/ladel.png)
 4. shelves
@@ -27,5 +30,6 @@ contents:
 11. window\
 ![alt text](https://github.com/yichenemma/Models/blob/master/window.png)
 12. shrine
+![alt text](https://github.com/yichenemma/Models/blob/master/shrine.png)
 13. box
 ![alt text](https://github.com/yichenemma/Models/blob/master/box.png)
