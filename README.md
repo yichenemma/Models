@@ -7,4 +7,4 @@ contents:
 5. cupboards
 6. locks
 7. chest
-
+8. stool
