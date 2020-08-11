@@ -8,3 +8,7 @@ contents:
 6. locks
 7. chest
 8. stool
+9. fences
+10. house
+11. window
+12. shrine
