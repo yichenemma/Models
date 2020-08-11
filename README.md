@@ -12,3 +12,5 @@ contents:
 10. house
 11. window
 12. shrine
+13. box
+![alt text](http://url/to/img.png)
